@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 import RPi.GPIO as GPIO
 import time
-TRIG = 11
-ECHO = 12
+TRIG = 6
+ECHO = 5
 
 
 def setup():
